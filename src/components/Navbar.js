@@ -1,8 +1,8 @@
 const Navbar = () => {
     return(
-        <nav>
-            <div className="navbar">
-                <a href="#">Lifeinvader</a>
+        <nav className="navbar">
+            <div>
+                <a href="#" className="home-link">Lifeinvader</a>
             </div>
             <div>
             <i class="fa-solid fa-magnifying-glass"></i>
